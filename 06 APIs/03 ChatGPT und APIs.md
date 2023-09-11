@@ -4,5 +4,5 @@
 2. Suche nach solchen, die offen sind; und nach solchen, die mit einem "Token" gelesen werden müssen.
 3. Greife eine interessante API heraus und "befrage" sie nach Daten (idealerweise eine Abfrage, die ihr für eine Geschichte verwenden könnt.)
 4. Trage den Code von ChatGPT in Jupyter Notebook. Funktioniert er?
-5. Falls nicht. Adaptiere den Code?
+5. Falls nicht. Adaptiere den Code.
 
