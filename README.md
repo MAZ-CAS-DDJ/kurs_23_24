@@ -81,7 +81,7 @@ Nachmittag:
 1. Vortrag: [Eine Zeitreise durch den Datenjournalismus](01%20Einführungstag/DDJ%20Zeitreise.pptx) (ssc), 30'
 1. Unterricht: [Date+Time Basics](09%20Pandas%20Teil%203/Date+Time%20Basics.ipynb) *([Lösung](09%20Pandas%20Teil%203/Date+Time%20Basics%20L.ipynb))* (ssc), 45'
 1. Unterricht: [Time Series - SMI-Index](09%20Pandas%20Teil%203/Time%20Series.ipynb) *([Lösung](09%20Pandas%20Teil%203/Time%20Series%20L.ipynb))* (ssc), 45' + 45'
-1. Übung: [Exploring und Plotting II - Börsenkurse](09%20Pandas%20Teil%203/Exploring%20und%20Plotting%202.ipnyb) *([Lösung](09%20Pandas%20Teil%203/Exploring%20und%20Plotting%202%20L.ipynb))* (ssc), 60'
+1. Gruppenübung: [Exploring und Plotting II - Börsenkurse](09%20Pandas%20Teil%203/Exploring%20und%20Plotting%202.ipnyb) *([Lösung](09%20Pandas%20Teil%203/Exploring%20und%20Plotting%202%20L.ipynb))* (ssc), 60'
 1. Homework: [Viele Dateien - Krypto-Coins](09%20Pandas%20Teil%203/Viele%20Dateien.ipynb) *([Lösung](09%20Pandas%20Teil%203/Viele%20Dateien%20L.ipynb))* (ssc), 60'
 
 
