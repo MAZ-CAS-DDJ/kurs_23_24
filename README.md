@@ -88,14 +88,14 @@ Nachmittag:
 ## 10 Pandas Teil 4
 **15. September 2023**
 1. Übung: [Hack like a hacker](10%20Pandas%20Teil%204/Keyboard%20Shortcuts.ipynb) (ssc), 45'
-1. Unterricht: [Color Coding - Countries](10%20Pandas%20Teil%204/Color%20Coding.ipynb) *([mit Output](10%20Pandas%20Teil%204/Color%20Coding%20L.ipynb))* (ssc), 90'
-1. Gruppenarbeit A: [Beautiful Charts](10%20Pandas%20Teil%204/Beautiful%20Charts.ipynb) *([mit Output](10%20Pandas%20Teil%204/Beautiful%20Charts%20L.ipynb))* (ssc), 120'
-1. Gruppenarbeit B: [Beautiful Tables](10%20Pandas%20Teil%204/Beautiful%20Tables.ipynb) *([mit Output](10%20Pandas%20Teil%204/Beautiful%20Tables%20L.ipynb))* (ssc), 120'
-1. Gruppenarbeit C: [Pandas und Funktionen](10%20Pandas%20Teil%204/Pandas%20und%20Funktionen.ipynb) *([mit Output](10%20Pandas%20Teil%204/Pandas%20und%20Funktionen%20L.ipynb))* (ssc), 120'
-1. Offene Fragerunde
-1. Homework: [Regex in Python - Songtexts](10%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](10%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))*
-1. Homework: [Regex in Pandas - BFS](10%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *([Lösung](10%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))*
+1. Unterricht: [Regex in Python - Songtexts](10%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](10%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))*
+1. Übung: [Regex in Pandas - BFS](10%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *([Lösung](10%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))*
+1. Exkurs A: [Beautiful Charts](10%20Pandas%20Teil%204/Beautiful%20Charts.ipynb) *([mit Output](10%20Pandas%20Teil%204/Beautiful%20Charts%20L.ipynb))* (ssc), 120'
+1. Exkurs B: [Beautiful Tables](10%20Pandas%20Teil%204/Beautiful%20Tables.ipynb) *([mit Output](10%20Pandas%20Teil%204/Beautiful%20Tables%20L.ipynb))* (ssc), 120'
+1. Exkurs C: [Pandas und Funktionen](10%20Pandas%20Teil%204/Pandas%20und%20Funktionen.ipynb) *([mit Output](10%20Pandas%20Teil%204/Pandas%20und%20Funktionen%20L.ipynb))* (ssc), 120'
+1. Exkurs D: [Color Coding - Countries](10%20Pandas%20Teil%204/Color%20Coding.ipynb) *([mit Output](10%20Pandas%20Teil%204/Color%20Coding%20L.ipynb))* (ssc), 90'
 1. Homework: [Regex - Senators](10%20Pandas%20Teil%204/Homework%20Regex.ipynb) *([Lösung](10%20Pandas%20Teil%204/Homework%20Regex%20L.ipynb))*
+
 
 ## 11 Scraping
 **16. Oktober 2023**
