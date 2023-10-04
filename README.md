@@ -99,19 +99,25 @@ Nachmittag:
 1. Homework: [Regex - Senators](10%20Pandas%20Teil%204/Homework%20Regex.ipynb) *([Lösung](10%20Pandas%20Teil%204/Homework%20Regex%20L.ipynb))*
 
 
-## 11 Scraping
+## 11 Scraping Tag 1
 **16. Oktober 2023**
 
-*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
-1. APIs und Authentifizierung
-2. Noch mehr ```BeautifulSoup```
+1. Rückblick 1: Json, bzw. Dictionary einlesen und relevante Daten auslesen
+2. Rückblick 2: API requests (eigentlich genau dasselbe, Daten einlesen)
+3. Pandas: Daten aus dem Netz einlesen
+4. BeautifulSoup, Einzelseite auslesen
+5. BeautifulSoup, mehrere Seiten auslesen
+6. Fake headers
 
 ## 12 Selenium
 **17. Oktober 2023**
 
-*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
-1. Selenium-Setup
-2. Arbeit mit Selenium
+1. Die Grenzen von Requests  (get) und BeautifulSoup
+2. Selenium, Interaktion mit Formularen
+3. Ergebnisse abspeichern
+4. Virtuelle browser
+5. Scraping Lab: üben wir an den eigenen Beispielen
+
 
 ## 13 PDFs
 **26. Oktober 2023**
