@@ -54,7 +54,7 @@ Nachmittag:
 ## 06 APIs und Scraping Intro
 **11. September 2023**
 
-*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+[Slides und Tageslernziele](https://docs.google.com/presentation/d/1iYSgs-WREtJ58vUVnEeCFHsXuzSo_3wx_sETF1uFbo8/edit?usp=sharing)
 1. [Dictonaries](01%20Dictionaries.ipynb)
 2. [Erdbeben mit Zeitumrechnung](02%20Erdbeben%20API%20(mit%20Zeitumrechnung).ipynb)
 3. [Chat GPT und API-Recherche](03%20ChatGPT%20und%20APIs.md)
