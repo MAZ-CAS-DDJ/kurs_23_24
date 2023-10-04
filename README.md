@@ -102,12 +102,12 @@ Nachmittag:
 ## 11 Scraping Tag 1
 **16. Oktober 2023**
 
-1. Rückblick 1: Json, bzw. Dictionary einlesen und relevante Daten auslesen
-2. Rückblick 2: API requests (eigentlich genau dasselbe, Daten einlesen)
-3. Pandas: Daten aus dem Netz einlesen
-4. BeautifulSoup, Einzelseite auslesen
-5. BeautifulSoup, mehrere Seiten auslesen
-6. Fake headers
+1. [Rückblick 1: Json, bzw. Dictionary einlesen und relevante Daten auslesen](01%20Json%20Files%20lokal%20einlesen.ipynb)
+2. [Rückblick 2: API requests (eigentlich genau dasselbe, Daten einlesen)](11%C2%A0Scraping/02%20APIs%20bedienen.ipynb)
+3. [Pandas: Daten aus dem Netz einlesen](03%20Mit%20Pandas%20Daten%20aus%20dem%20Netz%20lesen.ipynb)
+4. [BeautifulSoup, Einzelseite auslesen](04%20BeautifulSoup%20Einzelseite%20auslesen.ipynb)
+5. [BeautifulSoup, mehrere Seiten auslesen](05%20Alle%20Webpages%20auslesen.ipynb)
+6. [Fake headers](11%C2%A0Scraping/06%20Fake%20Header.ipynb)
 
 ## 12 Selenium
 **17. Oktober 2023**
