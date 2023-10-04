@@ -39,7 +39,7 @@ Nachmittag:
 
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
-## 05 Local Setup
+## 05 Local Setup und API Intro
 **8. September 2023**
 
 [Slides und Tageslernziele](https://docs.google.com/presentation/d/1iYSgs-WREtJ58vUVnEeCFHsXuzSo_3wx_sETF1uFbo8/edit#slide=id.p)
@@ -51,13 +51,15 @@ Nachmittag:
 5. [Workflow](05%20Work-Flow.md)
 6. [Start APIs](06%20APIs%2C%20Python%20Modules%2C%20Fokus%20Requests.ipynb)
 
-
-## 06 APIs
+## 06 APIs und Scraping Intro
 **11. September 2023**
 
 *Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
-1. Requests, BeatifulSoup & APIs
-2. HTML Code
+1. [Dictonaries](01%20Dictionaries.ipynb)
+2. [Erdbeben mit Zeitumrechnung](02%20Erdbeben%20API%20(mit%20Zeitumrechnung).ipynb)
+3. [Chat GPT und API-Recherche](03%20ChatGPT%20und%20APIs.md)
+4. [Anatomie einer Website](06%20APIs/05%20Anatomie%20einer%20Website.pdf)
+5. [Einführung in BeautifulSoup](06%20Intro%20BeautifulSoup.ipynb)
 
 ## 07 Pandas Teil 1
 **12. September 2023**
