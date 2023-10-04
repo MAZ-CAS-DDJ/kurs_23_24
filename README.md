@@ -117,6 +117,7 @@ Nachmittag:
 3. Ergebnisse abspeichern
 4. Virtuelle browser
 5. Scraping Lab: üben wir an den eigenen Beispielen
+6. Extra: Blick auf Anaconda Navigator
 
 
 ## 13 PDFs
