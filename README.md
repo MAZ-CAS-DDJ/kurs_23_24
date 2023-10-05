@@ -109,7 +109,7 @@ Nachmittag:
 5. [BeautifulSoup, mehrere Seiten auslesen](05%20Alle%20Webpages%20auslesen.ipynb)
 6. [Fake headers](11%C2%A0Scraping/06%20Fake%20Header.ipynb)
 
-## 12 Selenium
+## 12 Scraping Tag 2
 **17. Oktober 2023**
 
 1. Die Grenzen von Requests  (get) und BeautifulSoup
