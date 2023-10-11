@@ -101,6 +101,7 @@ Nachmittag:
 
 ## 11 Scraping Tag 1
 **16. Oktober 2023**
+[Slides und das genaue Programm](https://docs.google.com/presentation/d/1_oKmj8QMA8Fmd1vAhyBSdtOIf9qZ-2UbySXI3PnVLfM/edit#slide=id.g24da73f97fb_0_0)
 
 1. [Rückblick 1: Json, bzw. Dictionary einlesen und relevante Daten auslesen](01%20Json%20Files%20lokal%20einlesen.ipynb)
 2. [Rückblick 2: API requests (eigentlich genau dasselbe, Daten einlesen)](11%C2%A0Scraping/02%20APIs%20bedienen.ipynb)
@@ -111,13 +112,11 @@ Nachmittag:
 
 ## 12 Scraping Tag 2
 **17. Oktober 2023**
+[Slides und das genaue Programm](https://docs.google.com/presentation/d/1_oKmj8QMA8Fmd1vAhyBSdtOIf9qZ-2UbySXI3PnVLfM/edit#slide=id.g24da73f97fb_0_0)
 
-1. Die Grenzen von Requests  (get) und BeautifulSoup
-2. Selenium, Interaktion mit Formularen
-3. Ergebnisse abspeichern
-4. Virtuelle browser
-5. Scraping Lab: üben wir an den eigenen Beispielen
-6. Extra: Blick auf Anaconda Navigator
+1. [Die Grenzen von Requests  (get) und BeautifulSoup](01%20Die%20Grenzen%20von%20requests%20und%20BeautifulSoup.ipynb)
+2. [Beispiel Zefix](02%20Scraping%20Zefix%20(Lösung).ipynb)
+3. [Beispiel VS Parlament](03%20Scraping%20Walliser%20Parlament.ipynb)
 
 
 ## 13 PDFs
