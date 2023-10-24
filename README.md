@@ -122,7 +122,11 @@ Nachmittag:
 ## 13 PDFs
 **26. Oktober 2023**
 
-*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+* [Alle Kursunterlagen inkl. Lösungen](https://drive.google.com/drive/folders/1_Xeog8W2oBPDGbr_NDYEs90yBsZDa5kU?usp=share_link)
+* [Präsentation Kurstag PDF](https://drive.google.com/file/d/1ptcvGJtZhkhI6wmsdCUxHsSDbghnA06Q/view?usp=sharing)
+* [Textinhalte aus PDFs auslesen](https://colab.research.google.com/drive/1lVS_vM_ilJ538zittdUw-QGrLccCKCPM?usp=share_link)
+* [Tabellarische Inhalte aus PDFs auslesen](https://colab.research.google.com/drive/1naWn2X_jxEdUL-pxS-N1IVSqWwzrDvmM?usp=sharing)
+* [Tabellarische Inhalte aus PDFs auslesen, Übung](https://colab.research.google.com/drive/19rWMwzoggLXUbE41_hv_2HLHCueBBZJb?usp=sharing)
 
 ## 14 Automatisierung
 **27. Oktober 2023**
