@@ -4,3 +4,6 @@
 - `conda activate github_actions`
 - `pip freeze > requirements.txt`
 
+# REPO
+
+- https://github.com/plotti/scrape_winti/
