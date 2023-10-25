@@ -131,17 +131,17 @@ Nachmittag:
 ## 14 Automatisierung
 **27. Oktober 2023**
 
-*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+* Automatisches Scrapen von Webseiten oder Aufruf von APIs
 
 ## 15 Textanalyse, Teil 1
 **6. November 2023**
 
-*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+* Analyse von Text mit klassischen Methoden
 
 ## 16 Textanalyse, Teil 2
 **7. November 2023**
 
-*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+* Analyse von Text mit ChatGPT
 
 ## 17 Geodaten, Teil 1
 **4. Dezember 2023**
