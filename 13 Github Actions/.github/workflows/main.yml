@@ -19,3 +19,5 @@ jobs:
           pip install -r requirements.txt
       - name: Scrape Winterthur
         run: python scrape_winterthurer_zeitung.py
+      - name: Get Parkings 
+        run: python parking_zuerich.py
