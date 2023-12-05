@@ -7,6 +7,7 @@
 1. [Wichtigste Cheat Sheets](00%20weitere%C2%A0Dokumente/cheatsheets) - zum schnellen Nachschauen
 1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets, Templates
 1. [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) - eine kuratierte Sammlung
+1. [Abschlussarbeit](00%20weitere%C2%A0Dokumente/Abschlussarbeit/Abschlussarbeit%20CAS%20Datenjournalismus.pdf)
 
 ## 01 Einführungstag
 **4. September 2023**
