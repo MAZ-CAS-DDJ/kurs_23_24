@@ -72,6 +72,7 @@ Sammlung von Hilfsmaterialien zu diversen Programmiersprachen und Python-Bibliot
 - [GPS Koordinaten eines Punkts finden](https://www.gps-coordinates.net/)
 - [Schweizer Koordinaten finden](https://tools.retorte.ch/map/?swissgrid=2616777,1157680)
 - [Create your own country Geojson](https://geojson-maps.ash.ms/)
+- [Shapefiles konvertieren](https://mygeodata.cloud/converter/shp-to-geojson)
 
 ### GIS-Browser
 - [CH](https://map.geo.admin.ch)

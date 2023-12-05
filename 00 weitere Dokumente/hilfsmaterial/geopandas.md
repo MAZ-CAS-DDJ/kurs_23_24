@@ -109,6 +109,14 @@ These tests yield True/False answers and can be used with single shapes or gdf c
 - `op='contains'`                                     *- match gdf1 shapes that contain gdf2 shapes*
 - `op='intersects'`                                   *- match gdf1 shapes that intersect with gdf2 shapes*
 
+## EPSG Numbers
+
+| Code | Description |
+|------|---------------------------|
+| 4326 | world geodetic system (GPS) |
+| 21781 | swiss coordinate system (CH1903) |
+| 2056 | #swiss coordinate system new (CH1903+) |
+
 ## PLOTTING
 
 ### Main function
